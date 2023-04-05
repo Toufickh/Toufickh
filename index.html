@@ -36,7 +36,7 @@
     .button1 {
       background-color: rgb(200, 0, 0);
       color: white;
-      margin: 20px;
+      margin: 400px;
     }
     .button1:hover {
       background-color: rgb(0, 0, 0);
@@ -102,28 +102,29 @@
   -webkit-transition: .4s;
   transition: .4s;
 }
-
 input:checked + .slider {
   background-color: #2196F3;
 }
-
 input:focus + .slider {
   box-shadow: 0 0 1px #2196F3;
 }
-
 input:checked + .slider:before {
   -webkit-transform: translateX(26px);
   -ms-transform: translateX(26px);
   transform: translateX(26px);
 }
-
 /* Rounded sliders */
 .slider.round {
   border-radius: 34px;
 }
-
 .slider.round:before {
   border-radius: 50%;
+}
+.label {
+  color: rgb(0, 0, 0);
+  padding: 8px;
+  font-family: Arial;
+  background-color: #2196F3;
 }
   </style>
 
@@ -131,12 +132,12 @@ input:checked + .slider:before {
     <button class="button button1" onclick=" window.open('http://www.google.com/','_blank')">
       Click here
     </button>
-
+    <span class="label">LIGHT</span>
     <label class="switch">
       <input type="checkbox">
       <span class="slider round"></span>
     </label>
-    
+    <span class="label">DARK</span>
     <br>
     <p>
       Why am i here?!
