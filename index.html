@@ -58,9 +58,19 @@
       background-color: rgb(0, 0, 0);
       color: rgb(47, 56, 141);
     }
-    img {
-      max-height: 50%;
+    .img1 {
+      max-height: 10%;
       width: auto;
+      max-width: 200px;
+      margin-left: 1010px;
+    }
+    .img1:hover{
+      max-width: 220px;
+    }
+    .img2 {
+      max-height: 10%;
+      width: auto;
+      max-width: 300px;
     }
     a:hover{
       color:green;
@@ -69,62 +79,62 @@
       color: red;
     }
     .switch {
-  position: relative;
-  display: inline-block;
-  width: 60px;
-  height: 34px;
-}
-.switch input { 
-  opacity: 0;
-  width: 0;
-  height: 0;
-}
-.slider {
-  position: absolute;
-  cursor: pointer;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background-color: #ccc;
-  -webkit-transition: .4s;
-  transition: .4s;
-}
-.slider:before {
-  position: absolute;
-  content: "";
-  height: 26px;
-  width: 26px;
-  left: 4px;
-  bottom: 4px;
-  background-color: white;
-  -webkit-transition: .4s;
-  transition: .4s;
-}
-input:checked + .slider {
-  background-color: #2196F3;
-}
-input:focus + .slider {
-  box-shadow: 0 0 1px #2196F3;
-}
-input:checked + .slider:before {
-  -webkit-transform: translateX(26px);
-  -ms-transform: translateX(26px);
-  transform: translateX(26px);
-}
-/* Rounded sliders */
-.slider.round {
-  border-radius: 34px;
-}
-.slider.round:before {
-  border-radius: 50%;
-}
-.label {
-  color: rgb(255, 255, 255);
-  padding: 8px;
-  font-family: Arial;
-  background-color: #2196F3;
-}
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+    }
+    .switch input { 
+      opacity: 0;
+      width: 0;
+      height: 0;
+    }
+    .slider {
+      position: absolute;
+      cursor: pointer;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background-color: #ccc;
+      -webkit-transition: .4s;
+      transition: .4s;
+    }
+    .slider:before {
+      position: absolute;
+      content: "";
+      height: 26px;
+      width: 26px;
+      left: 4px;
+      bottom: 4px;
+      background-color: white;
+      -webkit-transition: .4s;
+      transition: .4s;
+    }
+    input:checked + .slider {
+      background-color: #2196F3;
+    }
+    input:focus + .slider {
+      box-shadow: 0 0 1px #2196F3;
+    }
+    input:checked + .slider:before {
+      -webkit-transform: translateX(26px);
+      -ms-transform: translateX(26px);
+      transform: translateX(26px);
+    }
+    /* Rounded sliders */
+    .slider.round {
+      border-radius: 34px;
+    }
+    .slider.round:before {
+      border-radius: 50%;
+    }
+    .label {
+      color: rgb(255, 255, 255);
+      padding: 8px;
+      font-family: Arial;
+      background-color: #2196F3;
+    }
   </style>
 
   <body>
@@ -132,11 +142,13 @@ input:checked + .slider:before {
       Click here
     </button>
     <span class="label">LIGHT</span>
-    <label class="switch" onclick="MyFunction()">
+    <label class="switch" aria-checked="myFunction()">
       <input type="checkbox">
       <span class="slider round"></span>
     </label>
     <span class="label">DARK</span>
+    <br>
+    <img class ="img1" src="/Users/touficelkhoury/Dropbox/Toufic El Khoury Resume QR.png" alt="QR Code">
     <br>
     <p>
       Why am i here?!
@@ -147,6 +159,12 @@ input:checked + .slider:before {
     <button class ="button button3" onclick=" window.open('http://www.yahoo.com/','_blank')">
       Donate
     </button>
+    <button class ="button button2" onclick="myFunction()">
+      dark
+    </button>
+    <button class ="button button3" onclick="document.body.classlist.toggle(dark-mode)">
+      dark1
+    </button>
     <br>
     <br>
     <a href="https://www.youtube.com/" target="_blank">
@@ -154,7 +172,7 @@ input:checked + .slider:before {
     </a>
     <br>
     <br>
-    <img src="https://i.postimg.cc/g2QhhVYn/flaming-lebron-james-desktop-background-by-acevesgame-d6yrvs8.jpg" alt="The King">
+    <img class = "img2" src="https://i.postimg.cc/g2QhhVYn/flaming-lebron-james-desktop-background-by-acevesgame-d6yrvs8.jpg" alt="The King">
     <br>
     <br>
     <br>
