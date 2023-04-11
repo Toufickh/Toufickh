@@ -135,6 +135,17 @@
       font-family: Arial;
       background-color: #2196F3;
     }
+    .background{
+      width: 100vw;
+      height: 100vh;
+      background: white;
+      z-index: -1;
+      position: absolute;
+      transition: 0.3s;
+    }
+    input:checked + label + .background{
+      background:rgb(0, 0, 0)
+    }
   </style>
 
   <body>
