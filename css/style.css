@@ -1,0 +1,48 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color:#2196F3;
+  transition: all 0.3s ease-in-out;
+}
+body.dark{
+  background-color: rgba(0, 0, 0, 0.686);
+  
+}
+.toggle{
+  position: relative;
+  height: 35px;
+  width: 100px;
+  background-color: red;
+  border-radius: 100px;
+  background-color: white;
+  box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+  cursor: pointer;
+}
+.toggle::before{
+  content:'';
+  position: absolute;
+  height: 35px;
+  width: 35px;
+  background: #4070f4;
+  border-radius: 50%;
+  top: 50%;
+  left: 14px;
+  transform: translateY(-50%);
+}
+.toggle.active::before{
+left: calc(100% - 35px - 14px);
+background:rgba(0, 0, 0, 0.686);
+}
+div{
+  
+  display: inline;
+}
+.label1{
+  margin-right: 50px;
+}
+.label2{
+  margin-left: 50px;
+}
