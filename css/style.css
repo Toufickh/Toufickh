@@ -46,3 +46,9 @@ div{
 .label2{
   margin-left: 50px;
 }
+label{
+  color: black;
+}
+label.whity{
+  color: white;
+}
