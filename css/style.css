@@ -35,7 +35,7 @@ body.dark{
 }
 .toggle.active::before{
 left: calc(100% - 35px - 14px);
-background:rgba(0, 0, 0, 0.686);
+background:rgba(25, 25, 25, 0.686);
 }
 div{
   
