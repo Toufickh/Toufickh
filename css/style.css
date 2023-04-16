@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 body{
-  background-color:#2196F3;
+  background-color: white;
   transition: all 0.3s ease-in-out;
 }
 body.dark{
