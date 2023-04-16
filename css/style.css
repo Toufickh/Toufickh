@@ -27,7 +27,7 @@ body.dark{
   position: absolute;
   height: 35px;
   width: 35px;
-  background: #4070f4;
+  background:rgba(25, 25, 25, 0.686);
   border-radius: 50%;
   top: 50%;
   left: 14px;
@@ -35,7 +35,7 @@ body.dark{
 }
 .toggle.active::before{
 left: calc(100% - 35px - 14px);
-background:rgba(25, 25, 25, 0.686);
+background: #4070f4;
 }
 div{
   
