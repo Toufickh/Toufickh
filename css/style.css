@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 body{
-  background-color: #e3f2fe;
+  background-color: #c8e5fc;
   transition: all 0.3s ease-in-out;
 }
 body.dark{
