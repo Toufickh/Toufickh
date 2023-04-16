@@ -5,11 +5,12 @@
 }
 body{
   background-color: #c8e5fc;
+  color: black;
   transition: all 0.3s ease-in-out;
 }
 body.dark{
   background-color: #121212;
-  
+  color: red;
 }
 .toggle{
   position: relative;
@@ -46,9 +47,4 @@ div{
 .label2{
   margin-left: 50px;
 }
-label{
-  color: black;
-}
-label.whity{
-  color: white;
-}
+
