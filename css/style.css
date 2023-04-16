@@ -27,7 +27,7 @@ body.dark{
   position: absolute;
   height: 35px;
   width: 35px;
-  background:rgba(25, 25, 25, 0.686);
+  background:rgba(0, 0, 0, 0.686);
   border-radius: 50%;
   top: 50%;
   left: 14px;
