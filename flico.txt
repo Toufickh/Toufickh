@@ -1,0 +1,171 @@
+ 
+Alpelisib
+Phosphatidylinositol 3-Kinase alpha-Selective Inhibition With Alpelisib (BYL719) in PIK3CA-Altered Solid Tumors: Results From the First-in-Human Study.
+Juric D
+ Rodon J
+ Tabernero J
+ Janku F
+ Burris HA
+ Schellens JHM
+ Middleton MR
+ Berlin J
+ Schuler M
+ Gil-Martin M
+ Rugo HS
+ Seggewiss-Bernhardt R
+ Huang A
+ Bootle D
+ Demanse D
+ Blumenstein L
+ Coughlin C
+ Quadt C
+ Baselga J.
+
+Gedatolisib
+First-in-Human Study of PF-05212384 (PKI-587)
+ a Small-Molecule
+ Intravenous
+ Dual Inhibitor of PI3K and mTOR in Patients with Advanced Cancer.
+Shapiro GI
+ Bell-McGuinn KM
+ Molina JR
+ Bendell J
+ Spicer J
+ Kwak EL
+ Pandya SS
+ Millham R
+ Borzillo G
+ Pierce KJ
+ Han L
+ Houk BE
+ Gallo JD
+ Alsina M
+ Braña I
+ Tabernero J.
+
+A Phase 1B open-label study of gedatolisib (PF-05212384) in combination with other anti-tumour agents for patients with advanced solid tumours and triple-negative breast cancer.
+Curigliano G
+ Shapiro GI
+ Kristeleit RS
+ Abdul Razak AR
+ Leong S
+ Alsina M
+ Giordano A
+ Gelmon KA
+ Stringer-Reasor E
+ Vaishampayan UN
+ Middleton M
+ Olszanski AJ
+ Rugo HS
+ Kern KA
+ Pathan N
+ Perea R
+ Pierce KJ
+ Mutka SC
+ Wainberg ZA.
+
+
+Copanlisib
+
+First-in-human phase I study of copanlisib (BAY 80-6946)
+ an intravenous pan-class I phosphatidylinositol 3-kinase inhibitor
+ in patients with advanced solid tumors and non-Hodgkin's lymphomas.
+Patnaik A
+ Appleman LJ
+ Tolcher AW
+ Papadopoulos KP
+ Beeram M
+ Rasco DW
+ Weiss GJ
+ Sachdev JC
+ Chadha M
+ Fulk M
+ Ejadi S
+ Mountz JM
+ Lotze MT
+ Toledo FG
+ Chu E
+ Jeffers M
+ Peña C
+ Xia C
+ Reif S
+ Genvresse I
+ Ramanathan RK
+
+Pilaralisib
+Phase I safety
+ pharmacokinetic
+ and pharmacodynamic study of SAR245408 (XL147)
+ an oral pan-class I PI3K inhibitor
+ in patients with advanced solid tumors.
+Shapiro GI
+ Rodon J
+ Bedell C
+ Kwak EL
+ Baselga J
+ Braña I
+ Pandya SS
+ Scheffold C
+ Laird AD
+ Nguyen LT
+ Xu Y
+ Egile C
+ Edelman G.
+
+Serabelisib
+A First-in-Human
+ Phase I
+ Dose-Escalation Study of TAK-117
+ a Selective PI3Kα Isoform Inhibitor
+ in Patients with Advanced Solid Malignancies.
+Juric D
+ de Bono JS
+ LoRusso PM
+ Nemunaitis J
+ Heath EI
+ Kwak EL
+ Macarulla Mercadé T
+ Geuna E
+ Jose de Miguel-Luken M
+ Patel C
+ Kuida K
+ Sankoh S
+ Westin EH
+ Zohren F
+ Shou Y
+ Tabernero J.
+
+High impact reviews:
+PI3K inhibitors are finally coming of age
+Bart Vanhaesebroeck 
+Matthew W. D. Perry  
+Jennifer R. Brown
+Fabrice André & Klaus Okkenhaug 
+Nature Reviews Drug Discovery volume 20
+ pages741–769 (2021)
+
+At a crossroads: how to translate the roles of PI3K in oncogenic and metabolic signalling into improvements in cancer therapy
+Neil Vasan &  Lewis C. Cantley 
+Nature Reviews Clinical Oncology volume 19
+ pages471–485 (2022)
+
+The PI3K–AKT network at the interface of oncogenic signalling and cancer metabolism
+Gerta Hoxhaj & Brendan D. Manning 
+Nature Reviews Cancer volume 20
+ pages74–88 (2020)
+
+PI3K and cancer: lessons
+ challenges and opportunities
+David A. Fruman & Christian Rommel 
+Nature Reviews Drug Discovery volume 13
+ pages140–156 (2014)
+The present and future of PI3K inhibitors for cancer therapy
+Pau Castel
+1
+Eneda Toska
+2
+3
+Jeffrey A. Engelman
+4 and Maurizio Scaltriti5
+Nat cancer 2021
+
